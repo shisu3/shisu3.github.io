@@ -1,2 +1,2 @@
-https://github.com/shisu3/shisu3.github.io.git/posts/1.html
-https://github.com/shisu3/shisu3.github.io.git/posts/1.html
+https://github.com/shisu3/posts/1.html
+https://github.com/shisu3/posts/1.html
